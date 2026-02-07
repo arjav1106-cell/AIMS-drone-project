@@ -5,7 +5,8 @@ from tensorflow.keras.models import load_model
 from collections import deque, Counter
 
 # ---------------- Configuration ----------------
-MODEL_PATH = "gesture_cnn.h5"
+MODEL_PATH = "CNN method/gesture_cnn.h5"
+
 IMG_SIZE = 128
 ROI_SIZE = 300
 
