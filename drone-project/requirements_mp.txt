@@ -1,0 +1,4 @@
+opencv-python==4.8.0.74
+mediapipe==0.10.7
+protobuf>=3.11,<4
+numpy>=1.21,<2.0

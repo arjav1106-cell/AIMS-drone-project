@@ -1,6 +1,50 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# --------------------
+# Virtual Environments
+# --------------------
 .venv/
+.venv-cnn/
+.venv-mediapipe/
 venv/
 env/
-__pycache__/
-*.pyc
+
+# --------------------
+# VS Code
+# --------------------
 .vscode/
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Jupyter / logs
+# --------------------
+*.log
+*.tmp
+
+# --------------------
+# Large datasets & models (IMPORTANT)
+# --------------------
+dataset/
+*.h5
+
+# If you want to keep a small sample dataset, comment the above line and add a sample folder instead
+
+# --------------------
+# Cache / temp
+# --------------------
+.cache/
+.ipynb_checkpoints/
