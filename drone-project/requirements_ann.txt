@@ -1,0 +1,12 @@
+mediapipe==0.10.7
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+torchaudio
+joblib
+protobuf<4
