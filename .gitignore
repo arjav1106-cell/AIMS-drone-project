@@ -15,6 +15,7 @@ build/
 .venv/
 .venv-cnn/
 .venv-mediapipe/
+.venv-ann/
 venv/
 env/
 
